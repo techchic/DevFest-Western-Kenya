@@ -1,86 +1,86 @@
 [{
-    "date": "2016-09-09",
-    "dateReadable": "September 9",
+    "date": "2016-11-26",
+    "dateReadable": "November 26",
     "tracks": [{
-        "title": "Expo hall"
+        "title": "Planet media cinemas"
     }, {
-        "title": "Conference hall"
+        "title": "Utalii University Classes"
     }, {
-        "title": "Workshops hall"
+        "title": "Utalii University Classes"
     }],
     "timeslots": [{
-        "startTime": "09:00",
-        "endTime": "10:00",
+        "startTime": "08:00",
+        "endTime": "8:30",
         "sessions": [
             [132]
         ]
     }, {
-        "startTime": "10:00",
-        "endTime": "10:15",
+        "startTime": "08:30",
+        "endTime": "09:15",
         "sessions": [
             [136]
         ]
     }, {
-        "startTime": "10:15",
-        "endTime": "11:00",
+        "startTime": "09:30",
+        "endTime": "10:45",
         "sessions": [
             [139]
         ]
     }, {
-        "startTime": "11:00",
-        "endTime": "11:40",
+        "startTime": "10:45",
+        "endTime": "11:00",
         "sessions": [
             [103],
             [120],
             [109]
         ]
     }, {
-        "startTime": "11:50",
-        "endTime": "12:30",
+        "startTime": "11:05",
+        "endTime": "12:00",
         "sessions": [
             [129],
             [116],
             [109]
         ]
     }, {
-        "startTime": "12:30",
-        "endTime": "14:00",
+        "startTime": "12:05",
+        "endTime": "12:35",
         "sessions": [
             [133]
         ]
     }, {
-        "startTime": "14:00",
-        "endTime": "14:40",
+        "startTime": "12:40",
+        "endTime": "13:30",
         "sessions": [
             [101],
             [118],
             [107]
         ]
     }, {
-        "startTime": "14:50",
-        "endTime": "15:30",
+        "startTime": "13:30",
+        "endTime": "14:20",
         "sessions": [
             [140],
             [126],
             [107]
         ]
     }, {
-        "startTime": "15:30",
-        "endTime": "16:00",
+        "startTime": "14:30",
+        "endTime": "15:30",
         "sessions": [
             [134]
         ]
     }, {
-        "startTime": "16:00",
-        "endTime": "16:40",
+        "startTime": "15:35",
+        "endTime": "16:10",
         "sessions": [
             [105],
             [127],
             [119]
         ]
     }, {
-        "startTime": "16:50",
-        "endTime": "17:30",
+        "startTime": "16:10",
+        "endTime": "16:40",
         "sessions": [
             [112],
             [111],
@@ -102,14 +102,14 @@
         ]
     }]
 }, {
-    "date": "2016-09-10",
-    "dateReadable": "September 10",
+    "date": "2016-11-26",
+    "dateReadable": "",
     "tracks": [{
-        "title": "Expo hall"
+        "title": "Planet Media Cinemas"
     }, {
-        "title": "Conference hall"
+        "title": "Planet Media Cinemas"
     }, {
-        "title": "Workshops hall"
+        "title": "Planet Media Cinemas"
     }],
     "timeslots": [{
         "startTime": "09:30",
