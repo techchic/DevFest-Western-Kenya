@@ -5,54 +5,53 @@
     "description": "TBD",
     "language": "English"
   },
-  
   "139": {
     "id": 139,
-    "title": "2nd Keynote-Firebase 101",
+    "title": "Keynote",
     "description": "",
     "language": "English"
   },
   "138": {
     "id": 138,
-    "title": "Conference closing and contest winners announcements",
+    "title": "Conference closing ",
     "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
     "image": "/images/backgrounds/closing.jpg"
   },
   "137": {
     "id": 137,
-    "title": "Evening Tea & Networking",
+    "title": "Afterparty & Networking",
     "description": "Afterparty is a great time to have some fun and meet new people",
     "image": "/images/backgrounds/party.jpg"
   },
   "136": {
     "id": 136,
-    "title": "1st Keynote-Empowering developer communities",
+    "title": "DevFest Western Kenya Opening",
     "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
     "language": "English",
     "image": "/images/backgrounds/opening.jpg"
   },
   "135": {
     "id": 135,
-    "title": "Breakfast",
-    "description": "Yeeeeey!",
+    "title": "Morning coffee",
+    "description": "Coffeeeeeee!",
     "image": "/images/backgrounds/morning.jpg"
   },
   "134": {
     "id": 134,
-    "title": "Lunch",
-    "description": "Foooooooood yeeeey!",
+    "title": "Coffee break",
+    "description": "Coffeeeeeee!",
     "image": "/images/backgrounds/coffee-break.jpg"
   },
   "133": {
     "id": 133,
-    "title": "James Odede lakehub",
+    "title": "Lunch",
     "description": "Foooooooood!",
     "image": "/images/backgrounds/lunch.jpg"
   },
   "132": {
     "id": 132,
-    "title": "Registration & Breakfast",
-    "description": "Get your badge, Tea, enjoy talking with tech edicts around",
+    "title": "Registration & morning Coffee",
+    "description": "Get your badge, coffee, enjoy talking with tech edicts around",
     "image": "/images/backgrounds/registration.jpg"
   },
   "131": {
@@ -71,8 +70,8 @@
   },
   "130": {
     "id": 130,
-    "title": "Designing an Android Wear Application",
-    "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
+    "title": "",
+    "description": "",
     "speakers": [
       26
     ],
@@ -84,15 +83,15 @@
   },
   "129": {
     "id": 129,
-    "title": "Outreach and community",
+    "title": "Android N",
     "description": " ",
     "speakers": [
       26
     ],
     "language": "English",
-    "complexity": "Talk",
-    "": [
-      ""
+    "complexity": "Intermediate",
+    "tags": [
+      "Android"
     ],
     "presentation":"https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android"
   },
@@ -111,22 +110,22 @@
   },
   "127": {
     "id": 127,
-    "title": "",
-    "description": "",
+    "title": "ExoPlayer: Media playback without pain (almost...)",
+    "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
     "speakers": [
       24
     ],
-    "language": "",
-    "complexity": "",
-    "": [
-      ""
+    "language": "Ukrainian",
+    "complexity": "Intermediate",
+    "tags": [
+      "Android"
     ],
     "presentation":"https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot"
   },
   "126": {
     "id": 126,
-    "title": "Android Nougat",
-    "description": "In this session we look at Android Nougat 7.0 and how it opens up more ways for you to personalize your Android device. Decide how your data is used, the way you’re notified, and what your display looks like.",
+    "title": "Android hacking for dummies: \u2018if\u2019 operator demolytion",
+    "description": "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
     "speakers": [
       23
     ],
@@ -139,15 +138,15 @@
   },
   "125": {
     "id": 125,
-    "title": "",
-    "description": "",
+    "title": "Kubernetes in a real world",
+    "description": "TBD",
     "speakers": [
       22
     ],
-    "language": "",
-    "complexity": "",
-    "": [
-      ""
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "Cloud"
     ]
   },
   "124": {
@@ -165,7 +164,7 @@
   },
   "123": {
     "id": 123,
-    "title": "Introduction to Tensor Flow",
+    "title": "TBD",
     "description": "TBD",
     "speakers": [
       20
@@ -173,7 +172,7 @@
     "language": "English",
     "complexity": "Beginner",
     "tags": [
-      "Cloud"
+      "Web"
     ]
   },
   "122": {
@@ -192,8 +191,8 @@
   },
   "121": {
     "id": 121,
-    "title": "Offline-first progressive web apps",
-    "description": "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
+    "title": "",
+    "description": ".",
     "speakers": [
       18
     ],
@@ -205,36 +204,36 @@
   },
   "120": {
     "id": 120,
-    "title": "Tea Break!!",
-    "description": "Time to re-energise",
+    "title": "Docker",
+    "description": ".",
     "speakers": [
       18
     ],
-    "language": "",
-    "complexity": "Energy Mode",
-    "": [
-      ""
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": [
+      "Web"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017"
+    "presentation":""
   },
   "119": {
     "id": 119,
-    "title": "",
+    "title": "Developer Communities In Western Kenya",
     "description": "",
     "speakers": [
       17
     ],
-    "language": "",
-    "complexity": "",
-    "": [
-      ""
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": [
+      "Android"
     ],
     "presentation":"https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers"
   },
   "118": {
     "id": 118,
-    "title": "Android Nougat ",
-    "description": "In this session we look at Android Nougat 7.0 and how it opens up more ways for you to personalize your Android device. Decide how your data is used, the way you’re notified, and what your display looks like",
+    "title": "Kotlin + Android",
+    "description": "TBD",
     "speakers": [
       16
     ],
@@ -261,15 +260,15 @@
   },
   "116": {
     "id": 116,
-    "title": "Outreach and Community",
-    "description": "",
+    "title": "On Polymer and smileys... or Polysmileys",
+    "description": "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them \u00af(\u30c4)/\u00af?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
     "speakers": [
       14
     ],
     "language": "English",
-    "complexity": "Talk",
-    "": [
-      ""
+    "complexity": "Beginner",
+    "tags": [
+      "Web"
     ],
     "presentation":"http://carmenpopoviciu.github.io/on-polymer-and-smileys/"
   },
@@ -316,58 +315,58 @@
   },
   "112": {
     "id": 112,
-    "title": "Women Tech makers",
-    "description": "",
+    "title": "Building web apps in 2016",
+    "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
     "speakers": [
       10
     ],
     "language": "English",
-    "complexity": "",
-    "": [
-      ""
+    "complexity": "Intermediate",
+    "tags": [
+      "Web"
     ]
   },
   "111": {
     "id": 111,
-    "title": "",
-    "description": "",
+    "title": "Building modular architecture apps with Dagger 2",
+    "description": "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
     "speakers": [
       9
     ],
-    "language": "",
-    "complexity": "",
-    "": [
-      ""
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "Android"
     ],
     "presentation":"https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2"
   },
   "110": {
     "id": 110,
-    "title": "",
-    "description": "",
+    "title": "The ultimate guide to MVP pattern on Android",
+    "description": "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
     "speakers": [
       8
     ],
-    "language": "",
-    "complexity": "",
-    "": [
-      ""
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "Android"
     ],
     "presentation":"https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android"
   },
   "109": {
     "id": 109,
-    "title": "",
-    "description": "",
+    "title": "Women In Technology",
+    "description": "TBD",
     "speakers": [
       7
     ],
-    "language": "",
-    "complexity": "",
-    "": [
-      ""
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": [
+      "Cloud"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you"
+    "presentation":""
   },
   "108": {
     "id": 108,
@@ -376,17 +375,17 @@
     "speakers": [
       6
     ],
-    "language": "",
-    "complexity": "",
-    "": [
-      ""
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "Web"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2"
+    "presentation":""
   },
   "107": {
     "id": 107,
-    "title": "Chrome Dev tools for Progressive Web Apps",
-    "description": "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App and using Chrome developer tools.",
+    "title": "Chrome Dev Tools for Progressive web Apps",
+    "description": "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
     "speakers": [
       6
     ],
@@ -398,21 +397,21 @@
   },
   "106": {
     "id": 106,
-    "title": "Developer Community in Western Kenya",
+    "title": "Lakehub. Success story",
     "description": "",
     "speakers": [
       5
     ],
-    "language": "",
-    "complexity": "",
-    "": [
-      ""
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": [
+      "Communities"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story"
+    "presentation":""
   },
   "105": {
     "id": 105,
-    "title": "Kubernetes/ Docker",
+    "title": "Intro to TensorFlow",
     "description": "TBD",
     "speakers": [
       4
@@ -422,35 +421,35 @@
     "tags": [
       "Cloud"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow"
+    "presentation":""
   },
   "104": {
     "id": 104,
-    "title": "",
+    "title": "Empowering Communities!",
     "description": "",
     "speakers": [
       3
     ],
-    "language": "",
-    "complexity": "",
-    "": [
-      ""
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": [
+      "Communities"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king"
+    "presentation":""
   },
   "103": {
     "id": 103,
-    "title": "Tea Break!!.",
-    "description": "Time to re-energise.",
+    "title": "Firebase 101.",
+    "description": "",
     "speakers": [
       2
     ],
-    "language": "",
-    "complexity": "Energy mode",
-    "": [
-      ""
+    "language": "English",
+    "complexity": "Intermediate",
+    "tags": [
+      "Web"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze"
+    "presentation":""
   },
   "102": {
     "id": 102,
@@ -459,23 +458,23 @@
     "speakers": [
       1
     ],
-    "language": "",
-    "complexity": "",
-    "": [
-      ""
+    "language": "English",
+    "complexity": "Beginner",
+    "tags": [
+      "Communities"
     ]
   },
   "101": {
     "id": 101,
-    "title": "Introduction to Tensor Flow",
-    "description": "TBD",
+    "title": "Empowering Developer Communities ",
+    "description": "In this session, we will take a the developers ecosystem and comminities that are available for different developers. ",
     "speakers": [
       1
     ],
     "language": "English",
     "complexity": "Beginner",
     "tags": [
-      "Cloud"
+      "Communities"
     ],
     "presentation":"https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform"
   }
