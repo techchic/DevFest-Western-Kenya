@@ -13,7 +13,7 @@
   },
   "138": {
     "id": 138,
-    "title": "Conference closing and contest winners announcements",
+    "title": "Conference closing ",
     "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
     "image": "/images/backgrounds/closing.jpg"
   },
@@ -70,8 +70,8 @@
   },
   "130": {
     "id": 130,
-    "title": "Designing an Android Wear Application",
-    "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
+    "title": "",
+    "description": "",
     "speakers": [
       26
     ],
@@ -83,8 +83,8 @@
   },
   "129": {
     "id": 129,
-    "title": "Accessibility on Android",
-    "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
+    "title": "Android N",
+    "description": " ",
     "speakers": [
       26
     ],
@@ -191,8 +191,8 @@
   },
   "121": {
     "id": 121,
-    "title": "Offline-first progressive web apps",
-    "description": "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
+    "title": "",
+    "description": ".",
     "speakers": [
       18
     ],
@@ -204,8 +204,8 @@
   },
   "120": {
     "id": 120,
-    "title": "Progressive web apps - prepare your web for 2017",
-    "description": "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google\u2019s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
+    "title": "Docker",
+    "description": ".",
     "speakers": [
       18
     ],
@@ -214,12 +214,12 @@
     "tags": [
       "Web"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017"
+    "presentation":""
   },
   "119": {
     "id": 119,
-    "title": "Hands-on with UI testing for Android developers",
-    "description": "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
+    "title": "Developer Communities In Western Kenya",
+    "description": "",
     "speakers": [
       17
     ],
@@ -356,7 +356,7 @@
   },
   "109": {
     "id": 109,
-    "title": "How much money Firebase can save you",
+    "title": "Women In Technology",
     "description": "TBD",
     "speakers": [
       7
@@ -366,12 +366,12 @@
     "tags": [
       "Cloud"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you"
+    "presentation":""
   },
   "108": {
     "id": 108,
-    "title": "New Data Architecture in Angular 2",
-    "description": "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
+    "title": "",
+    "description": "",
     "speakers": [
       6
     ],
@@ -380,11 +380,11 @@
     "tags": [
       "Web"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2"
+    "presentation":""
   },
   "107": {
     "id": 107,
-    "title": "Introduction to Progressive Web Apps in Angular 2",
+    "title": "Chrome Dev Tools for Progressive web Apps",
     "description": "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
     "speakers": [
       6
@@ -397,17 +397,17 @@
   },
   "106": {
     "id": 106,
-    "title": "Fuelio. Success story",
-    "description": "Fuelio. Success story (I'll write more info later)",
+    "title": "Lakehub. Success story",
+    "description": "",
     "speakers": [
       5
     ],
     "language": "English",
     "complexity": "Beginner",
     "tags": [
-      "Android"
+      "Communities"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story"
+    "presentation":""
   },
   "105": {
     "id": 105,
@@ -421,60 +421,60 @@
     "tags": [
       "Cloud"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow"
+    "presentation":""
   },
   "104": {
     "id": 104,
-    "title": "The Physical Web: Context is King!",
-    "description": "It's no longer just about digitizing our environment. It\u2019s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This \u201cInternet of Things\u201d will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
+    "title": "Empowering Communities!",
+    "description": "",
     "speakers": [
       3
     ],
     "language": "English",
     "complexity": "Beginner",
     "tags": [
-      "Web"
+      "Communities"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king"
+    "presentation":""
   },
   "103": {
     "id": 103,
-    "title": "Knock knock! Who's there? Doze.",
-    "description": "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
+    "title": "Firebase 101.",
+    "description": "",
     "speakers": [
       2
     ],
     "language": "English",
     "complexity": "Intermediate",
     "tags": [
-      "Android"
+      "Web"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze"
+    "presentation":""
   },
   "102": {
     "id": 102,
-    "title": "Hands-on gRPC experience building your own multiplayer game client",
-    "description": "Do you remember the game Simon says from the 80s? I don\u2019t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We\u2019ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
+    "title": "",
+    "description": "",
     "speakers": [
       1
     ],
     "language": "English",
     "complexity": "Beginner",
     "tags": [
-      "Cloud"
+      "Communities"
     ]
   },
   "101": {
     "id": 101,
-    "title": "Windows and .NET on Google Cloud Platform ",
-    "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+    "title": "Empowering Developer Communities ",
+    "description": "In this session, we will take a the developers ecosystem and comminities that are available for different developers. ",
     "speakers": [
       1
     ],
     "language": "English",
     "complexity": "Beginner",
     "tags": [
-      "Cloud"
+      "Communities"
     ],
     "presentation":"https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform"
   }

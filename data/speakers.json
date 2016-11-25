@@ -73,26 +73,26 @@
         "company": "Google",
         "country": "Nairobi , Kenya",
          "photoUrl": "/images/people/mercy.jpg",
-        "shortBio": "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
-        "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG \u2013 Connected Home, he likes discovering the world together with his kids in an odd way.",
+        "shortBio": " Mercy is a developer Ecosystem Community Manager at Google in the Sub-Saharan Africa ",
+        "bio": "",
         "tags": [
             "Web",
-            "IoT",
-            "Smart Home"
+            "Launchpad",
+            "Android"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "website",
-                "name": "Website",
-                "link": "http://www.wolter.biz"
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "http://+MercyOrangi"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "http://twitter.com/saschawolter"
+                "link": "http://twitter.com/mercy_orangi"
             },
             {
                 "icon": "linkedin",
@@ -108,21 +108,31 @@
         "title": "Software Engineer",
         "country": "Nairobi,Kenya",
         "photoUrl": "/images/people/waithera_kunene.jpg",
-        "shortBio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
-        "bio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of performance optimizations.",
+        "shortBio": "Waithera is a software developer,when she is not tinkering with machines...",
+        "bio": "",
         "tags": [
-            "Cloud",
-            "Performance",
+            "Machine Learning",
+            "Python",
             "TensorFlow"
         ],
         "badges": [
 
         ],
         "socials": [
+             {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://medium.com/@waithira"
+            },
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/102117493667558776856"
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "http://twitter.com/waithirakunene"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "http://www.linkedin.com/pub/waithira-kunene-00241373"
             }
         ]
     },
@@ -131,12 +141,11 @@
         "featured": true,
         "name": "James Odede",
         "title": "Lakehub Co-Founder ",
-        "company": "Sygic",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Opole, Poland",
+        "company": "Lakehub",
+        "country": "Kisumu, Kenya",
         "photoUrl": "/images/people/james_odede.jpeg",
-        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "shortBio": "Co founder of Lakehub...",
+        "bio": "James is a Kenyan technologist and serial entrepreneur. The Co-founder and Director of of LakeHub (www.lakehub.co.ke), James has brought together the tech community of Western Kenya, raised funding from Google, overseen the implementation of a Computer Science for High School (CS4HS) students program, and built the region’s first co-working space..",
         "tags": [
             "Android",
             "Entrepreneurship"
@@ -146,9 +155,19 @@
         ],
         "socials": [
             {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "plus.google.com/+AdrianKajda"
+            },
+            {
                 "icon": "gplus",
                 "name": "Google+",
-                "link": "plus.google.com/+AdrianKajda"
+                "link": "plus.google.com/+JamesOdede"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/jamesodede"
             }
         ]
     },
@@ -160,8 +179,8 @@
         "company": "Andela",
         "country": "Nairobi, Kenya",
         "photoUrl": "/images/people/perci.jpg",
-        "shortBio": "Angular Google Developer Expert. International speaker and trainer.  Enjoy running AngularLabs London.",
-        "bio": "Angular Google Developer Expert. I am a Computer Science Engineer specialised in Web. International speaker and trainer. I am an Angular fanboy and a community activist fighting for the JavaScript revolution. I have lived and worked for all sorts of companies in Germany, Brazil, UK and Spain. I am always up for a good challenge. I enjoy running AngularLabs London, mentoring students, participating in the community, giving talks and writing technical articles at Medium.",
+        "shortBio": "Google Developer Lead KisumuS.",
+        "bio": "Percila is a technical trainer & software developer at Andela  .",
         "tags": [
             "Web",
             "Python",
@@ -175,9 +194,9 @@
                 "link": "https://twitter.com/njirap"
             },
             {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/margaret-adhiambo-ondeng-6b442030"
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/njirap"
             }
         ]
     },
@@ -185,15 +204,15 @@
         "id": 7,
         "featured": true,
         "name": "Margaret Ondenge",
-        "title": "Software Developer",
+        "title": "Software Engineer",
         "company": "Google",
         "country": "Nairobi,Kenya",
         "photoUrl": "/images/people/maggie.jpeg",
-        "shortBio": "TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia.",
-        "bio": "Right now he is a passionate Googler helping developers and companies in South CEE to be more successful and profitable.\n\nHe co-founded and lead several StartUPs such as Venzeo.com, TrashOut.ngo, Matura.sk and Stuzkova.EU.\n\nHe is TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia. He gets things done.",
+        "shortBio": "Grace Hopper Celebration Fellow.",
+        "bio": "Margaret is an experienced Java and android developer.with about 4 years experience.",
         "tags": [
-            "Cloud",
-            "Firebase"
+            "Android",
+            "Diversity and Inclusion"
         ],
         "badges": [
 
@@ -202,23 +221,14 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/jozefvodicka"
+                "link": "https://www.linkedin.com/in/margaret-adhiambo-ondeng-6b442030"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/jozefvodicka"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JozefVodicka"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/jozef.vodicka"
+                "link": "https://twitter.com/adhiambo_ondeng"
             }
+           
         ]
     },
     
@@ -228,28 +238,32 @@
         "name": "Sigu Magwa",
         "title": "Software Developer",
         "company": "Lakehub",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
         "country": "Kisumu,Kenya ",
         "photoUrl": "/images/people/sigu_magwa.jpeg",
-        "shortBio": "Ex Yandex emproyee. Android enthusiast.",
-        "bio": "Ex-Yandex emploee, currently Android Engineer at SoftServe.",
+        "shortBio": "Code90ty founder. Ruby on Rails developer.",
+        "bio": "Ruby and Ruby on Rails developer, open sourcerer, the developer relations guy at lakehub and coodinator of code9ty, a coding bootcampat lakehub.",
         "tags": [
-            "Android",
-            "Dagger 2"
+            "Web",
+            "Rails "
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/profile.php?id=100008474898785"
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/sigumagwa"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/s_igu"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/njirap"
+                "link": "https://github.com/sigu"
             }
         ]
     },
@@ -261,11 +275,11 @@
         "company": "Google",
         "country": "Kisumu,Kenya",
         "photoUrl": "/images/people/william_ondenge.jpg",
-        "shortBio": "TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia.",
-        "bio": "Right now he is a passionate Googler helping developers and companies in South CEE to be more successful and profitable.\n\nHe co-founded and lead several StartUPs such as Venzeo.com, TrashOut.ngo, Matura.sk and Stuzkova.EU.\n\nHe is TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia. He gets things done.",
+        "shortBio": "Co founder of chamaconnect.Its a software company that has a couple of projects in the Financial Inclusion sector.",
+        "bio": "I am proficient in Node js and Ruby programming languages.The last couple of months , I have been heavily involved with Docker , a platform used to build and ship applications to the cloud.I organize docker meetups in Kisumu where I also give talks to Developers , DevOps and System Administrators.",
         "tags": [
             "Cloud",
-            "Firebase"
+            "Docker"
         ],
         "badges": [
 
@@ -274,22 +288,17 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/jozefvodicka"
+                "link": "https://www.linkedin.com/in/wondenge"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/jozefvodicka"
+                "link": "https://twitter.com/wondenge"
             },
             {
                 "icon": "gplus",
                 "name": "Google+",
-                "link": "https://plus.google.com/+JozefVodicka"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/jozef.vodicka"
+                "link": "https://plus.google.com/+wondenge"
             }
         ]
     },
@@ -302,7 +311,7 @@
         "country": "Kisumu, Kenya",
         "photoUrl": "/images/people/mike.jpg",
         "shortBio": " Co founder at Tulasoft Creative Studio",
-        "bio": "I am a Senior Software engineer with a proven record of team leadership, system analysis, design, and development, with an expertise in object-oriented software development using Java (JEE, J2SE, J2ME, Android) and Ruby/Rails. Passionate about agile software development practices and quality improvement through the effective use of knowledge, information, and communication.",
+        "bio": "",
         "tags": [
             "Web",
             "Android",
